@@ -1,12 +1,12 @@
 {
-  "name": "matio-kart",
+  "name": "mario-kart",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "André Rangel",
   "license": "ISC",
-  "description": ""
+  "description": "projeto realizado no curso de mobile da DIO. O projeto tem como intuito verificar as habilidades do aluno na linguagem javascript"
 }
